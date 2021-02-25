@@ -1,5 +1,5 @@
 # Movies Compose
-A simple application that retrieves and displays a list of movies. Using Clean Arhcitecture MVI
+A simple application that retrieves and displays a list of movies. Using Clean Architecture MVI
 with a Jetpack Compose-based view layer (**Jetpack Compose is not ready for production yet, this
 was created as an experiment and for personal development.**)
 
