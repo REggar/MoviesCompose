@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Platform.Theme.MoviesCompose" parent="android:Theme.Material.Light" />
+
+    <style name="Base.Theme.MoviesCompose" parent="Platform.Theme.MoviesCompose">
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="Theme.MoviesCompose" parent="Base.Theme.MoviesCompose" />
+
+    <style name="Theme.MoviesCompose.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

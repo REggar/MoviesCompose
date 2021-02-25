@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gap_small">4dp</dimen>
+    <dimen name="gap_medium">8dp</dimen>
+
+    <dimen name="movie_grid_cell_min_size">120dp</dimen>
+    <dimen name="movie_poster_error_icon_size">48dp</dimen>
+</resources>
